@@ -1,0 +1,125 @@
+{
+    "social": {
+        "email": "ifennamonanu70@gmail.com",
+        "github": "https://github.com/Ifenna-Pascal",
+        "twitter": "https://twitter.com/pascalmonanu",
+        "linkedIn": "https://www.linkedin.com/in/ifenna-monanu-449898198/"
+ 
+    },
+    "education":[ {
+            "degree": "Full-Stack Developer Nanodegree",
+            "school": "Udacity, Inc.",
+            "timeline": {"from": "May 2020", "to": "Sept 2020"},
+            "summary": "This nanodegree course extensively taught various technical skills needed to build database-backed APIs and web applications including:\n\n\t• SQL and Data Modelling for the Web\n\t• API Development and Documentation\n\t• Identity and Access Management\n\t• Server Deployment, Containerization and Testing\n\nFind the full syllabus here: https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044"
+        }, {
+            "degree": "Front-End Developer Nanodegree",
+            "school": "Udacity, Inc.",
+            "timeline": {"from": "May 2018", "to": "Nov 2018"},
+            "summary": "This course taught comprehensively various technical skills important in frontend web development. Completed several projects encompassing the knowledge of:\n\n\t• HTML, CSS and JavaScript\n\t• Responsive Web Design\n\t• Object-Oriented Programming\n\t• Web Accessibility\n\t• Test-driven development\n\t• Working with APIs\n\t• Working with several frameworks (among others)\n"
+        }, {
+            "degree": "BSc. in Computer Engineering",
+            "school": "University of Lagos, Nigeria.",
+            "timeline": {"from": "Nov 2015", "to": "Jan 2020"},
+            "summary": "• Graduated with First Class Honours. \n\n• Relevant Coursework: Software Engineering Fundamentals, Computer Programming, Computer Architecture, Algorithms and Data Structures, Systems Programming, Machine and Assembly Language Programming, Digital Electronics, Digital Computer Design, Microprocessors & Microcomputers, Database Management, Computer Networks, Information Theory & Coding, Numerical Methods in Engineering, Technical Communication."
+        }
+    ], 
+    "work":[
+        {
+            "role": "Freelance ",
+            "location": "Enugu, Nigeria",
+            "company": "Freelance",
+            "timeline": {"from": "May 2020", "to": "Present"},
+            "summary": "• Built client side project which cuts across web2 and web3 Engineering."
+        },
+        {
+            "role": "Software Engineer",
+            "location": "Enugu, Nigeria",
+            "company": "Apex Loaded ",
+            "timeline": {"from": "May 2022", "to": "Present"},
+            "summary": "• Application build and maintainance for customer based demand."
+        }, 
+        {
+            "role": "Blockchain Engineer Intern",
+            "location": "Lagos, Nigeria",
+            "company": "Nestcoin",
+            "timeline": {"from": "Jan 2022", "to": "May 2022"},
+            "summary": "• Integrated third party multi-wallet provider.Increased user performance and accessibility by 60% \n • Collaborated with a team of blockchain developers in building a decentralized voting application and an NFT market place."
+        }, {
+            "role": "Backend Engineer",
+            "location": "Lagos, Nigeria",
+            "company": "Devs Wallet",
+            "timeline": {"from": "Mar 2021", "to": "Mar 2022"},
+            "summary": "• Fully understood how distributed systems work, communicate and it's tradeoffs."
+        },
+        {
+            "role": "Fullstack Software Engineer",
+            "location": "Enugu, Nigeria",
+            "company": "Genesys Tech Hub",
+            "timeline": {"from": "Aug 2021", "to": "Jan 2022"},
+            "summary": "• Designed cargoowner to truckdriver pairing and amount generation algorithm, which generated amount based on the polar coordinates of user as this increased user performance by 50% "
+        },
+        {
+            "role": "Frontend Engineer",
+            "location": "Rivers, Nigeria",
+            "company": "Code Inclusive",
+            "timeline": {"from": "Aug 2021", "to": "May 2022"},
+            "summary": "• Refactored a client trade app code base codebase, integrating redux state management improved app scalability by 41%"
+        }
+
+    ],
+    "projects": {"Wafini Token":{
+        "name": "Wafini Token ",
+        "description": "A Dencentalized Application (DApp) for Wafini Token Sale and NFT marketplace",
+        "image_url": "/images/project1.png",
+        "device_image_url": "/images/project1.png",
+        "gif_url": null,
+        "live_url": "https://wafini.app/",
+        "github_url": null
+    },
+    "DefiPronto":{
+        "name": "Defi Pronto",
+        "description": "A Decentralized Application profile which encompases token staking and presale ",
+        "image_url": "/images/project3.png",
+        "device_image_url": "/images/project3.png",
+        "gif_url": null,
+        "live_url": "https://defipronto.com/",
+        "github_url": null
+    },
+    "Selporte":{
+        "name": "Selporte",
+        "description": "A Dencentalized Application (DApp) for Selporte Token Sale and NFT marketplace",
+        "image_url": "/images/project6.png",
+        "device_image_url": "/images/project6.png",
+        "gif_url": null,
+        "live_url": "https://test-selporte-69wmw2x33-mullgrid.vercel.app/",
+        "github_url": null
+    },
+    "Realty":{
+        "name": "Realty",
+        "description": "A Dencentalized Market place for real estate, with an extra saving vault future purchase",
+        "image_url": "/images/project2.png",
+        "device_image_url": "/images/project2.png",
+        "gif_url": null,
+        "live_url": "https://realty-app.netlify.app/",
+        "github_url": null
+    },
+    "Blochain Solution":{
+        "name": "Profile Design",
+        "description": "A profile design for a blockchain company",
+        "image_url": "/images/project4.png",
+        "device_image_url": "/images/project4.png",
+        "gif_url": null,
+        "live_url": "https://www.blockchainslc.com/",
+        "github_url": null
+    },
+    "Haulk Logistics":{
+        "name": "Haulk Logistics",
+        "description": "A Logistics based application for seamless haulage of goods. Creating easy interaction between truck driver and cargo owner",
+        "image_url": "/images/project7.png",
+        "device_image_url": "/images/project7.png",
+        "gif_url": null,
+        "live_url": "https://haulklogistics.netlify.app/",
+        "github_url": null
+    }
+}
+}
