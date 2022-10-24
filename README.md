@@ -1,3 +1,3 @@
 # Portfolio V1
 
-Personal portfolio site 1.0!
+Personal portfolio site version 1.0!
