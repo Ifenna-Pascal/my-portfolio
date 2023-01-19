@@ -82,7 +82,7 @@
         "image_url": "/images/project3.png",
         "device_image_url": "/images/project3.png",
         "gif_url": null,
-        "live_url": "https://defipronto.com/",
+        "live_url": "https://defi-pronto.vercel.app/",
         "github_url": null
     },
     "Selporte":{
@@ -91,7 +91,7 @@
         "image_url": "/images/project6.png",
         "device_image_url": "/images/project6.png",
         "gif_url": null,
-        "live_url": "https://test-selporte-69wmw2x33-mullgrid.vercel.app/",
+        "live_url": "https://selporte.com/",
         "github_url": null
     },
     "Realty":{
