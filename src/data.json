@@ -73,7 +73,7 @@
         "image_url": "/images/project1.png",
         "device_image_url": "/images/project1.png",
         "gif_url": null,
-        "live_url": "https://app.wafini.app/",
+        "live_url": "https://nonfungible-frontend.vercel.app/",
         "github_url": null
     },
     "DefiPronto":{
@@ -85,6 +85,18 @@
         "live_url": "https://defi-pronto.vercel.app/",
         "github_url": null
     },
+
+    "Clinton Developers": {
+         "name": "Clinton Developers Limited",
+        "description": "A real estate housing project for seamless purchase of landed properties",
+        "image_url": "/images/project6.png",
+        "device_image_url": "/images/project6.png",
+        "gif_url": null,
+        "live_url": "https://www.clintonsdevelopers.com/",
+        "github_url": null
+
+    }
+        
     "Selporte":{
         "name": "Selporte",
         "description": "A Dencentalized Application (DApp) for Selporte Token Sale and NFT marketplace",
